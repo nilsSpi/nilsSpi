@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on Ring of Fire
 - 🌱 I’m currently learning Angular
 - 😄 Pronouns: he/his
-- - 📫 How to reach me: www.nils-spiller.de
+- 📫 How to reach me: www.nils-spiller.de
 <!--
 **nilsSpi/nilsSpi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
