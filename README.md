@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Ring of Fire
-- 🌱 I’m currently learning Angular
+- 🌱 I’m currently learning Angular and Firebase
 - 😄 Pronouns: he/his
 - 📫 How to reach me: www.nils-spiller.de
 <!--
