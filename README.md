@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a muliplayer for Ring of Fire
-- 🌱 I’m currently learning Angular and Firebase
+- 🔭 I’m currently working on a muliplayer for Ring of Fire & simpleCRM
+- 🌱 I’m currently learning  Firebase
 - 😄 Pronouns: he/his
 - 📫 How to reach me: www.nils-spiller.de
 <!--
